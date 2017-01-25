@@ -8,4 +8,4 @@ To use the Python GUI, the package tkinter is needed.
 
 We also used an Arduino Micro.
 
-![soundtrak](https://cloud.githubusercontent.com/assets/21347461/22278979/8d0a03be-e295-11e6-90d1-3226f84e51c8.jpg)
+<img src="https://cloud.githubusercontent.com/assets/21347461/22278979/8d0a03be-e295-11e6-90d1-3226f84e51c8.jpg" width="600px"/>
