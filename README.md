@@ -7,3 +7,5 @@ Our demo included giving the remote controll settings so that it can control vid
 To use the Python GUI, the package tkinter is needed.
 
 We also used an Arduino Micro.
+
+https://github.com/CatherineZeng/HackMIT2016/blob/master/soundtrak.jpg
